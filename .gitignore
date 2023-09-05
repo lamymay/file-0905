@@ -1,0 +1,36 @@
+# roject exclude paths
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+./.idea
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+# 忽略文件夹
+.idea
+target/
+upload/
+
+/server/src/main/java/com/arc/zero/controller/data/poi/template
+/Users/may/Desktop/ray/java/zero/server/src/main/java/com/arc/zero/controller/data/test/config/
+
+### personal config ###
+*.log
+*.bak
+
+
+
+log/
+readme/personal/
+
+*.DS_Store
+
+
+zero.iml
+
+application-zero.yml
+
+server/src/main/java/com/arc/zero/test/notgit/
